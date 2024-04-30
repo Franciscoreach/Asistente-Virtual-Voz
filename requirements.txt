@@ -1,0 +1,7 @@
+characterai
+asyncio
+speech_recognition
+pyttsx3
+googletrans
+pyaudio
+wave
