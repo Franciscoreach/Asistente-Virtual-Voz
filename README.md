@@ -79,4 +79,4 @@ https://youtu.be/w4tYEpCToxU
                 
 ----
 
-🚨** Todo soporte / sugerencia / información adiocional es cordialmente bienvenida** 🚨
+🚨** Todo soporte / sugerencia / información adicional es cordialmente bienvenida** 🚨
